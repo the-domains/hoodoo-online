@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hoodoo Online]]></title>
+        <description><![CDATA[Hoodoo Online]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 00:54:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frequently Asked Questions (FAQ)]]></title>
+            <description><![CDATA[<p>SPELL PRICE: </p>]]></description>
+            <link>undefinedfrequently-asked-questions-faq/index.html</link>
+            <guid isPermaLink="false">072ff754-fe79-48b9-9439-05ee2ffa104f</guid>
+            <pubDate>Mon, 25 Apr 2016 00:54:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
