@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are looking for magic spells based on Dungeons and Dragons or Harry Potter, please go elsewhere. Only those interested in the genuine benefits of real world magic will be served by the powers of hoodoo and folk magic.'
-datePublished: '2016-04-25T01:20:49.811Z'
-dateModified: '2016-04-25T01:19:51.908Z'
+datePublished: '2016-04-25T01:24:37.734Z'
+dateModified: '2016-04-25T01:23:55.881Z'
 title: 'When subjected to scientific testing, Talia is as good a spell caster as any other you can find!'
 author: []
 sourcePath: _posts/2016-04-25-when-subjected-to-scientific-testing-talia-is-as-good-a-spe.md
