@@ -4,8 +4,15 @@
         <description><![CDATA[Hoodoo Online]]></description>
         <link>https://thegrid.ai/hoodoo-online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:21:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hoodoo-online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frequently Asked Questions (FAQ)]]></title>
+            <description><![CDATA[<p>SPELL PRICE: </p>]]></description>
+            <link>https://thegrid.ai/hoodoo-online/frequently-asked-questions-faq/index.html</link>
+            <guid isPermaLink="false">072ff754-fe79-48b9-9439-05ee2ffa104f</guid>
+            <pubDate>Mon, 25 Apr 2016 01:20:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hoodoo Magic Spells]]></title>
             <description><![CDATA[<article><h1>Hoodoo Magic Spells</h1><p>· Reliable spellcasting from a professional </p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/hoodoo-online/when-subjected-to-scientific-testing-talia-is-as-good-a-spe/index.html</link>
             <guid isPermaLink="false">f09293d9-e939-4488-a9c1-6636647a9a91</guid>
             <pubDate>Mon, 25 Apr 2016 01:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frequently Asked Questions (FAQ)]]></title>
-            <description><![CDATA[<p>SPELL PRICE: </p>]]></description>
-            <link>https://thegrid.ai/hoodoo-online/frequently-asked-questions-faq/index.html</link>
-            <guid isPermaLink="false">072ff754-fe79-48b9-9439-05ee2ffa104f</guid>
-            <pubDate>Mon, 25 Apr 2016 00:54:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
