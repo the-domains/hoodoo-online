@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'SPELL PRICE: '
-datePublished: '2016-04-25T00:54:18.995Z'
-dateModified: '2016-04-25T00:52:49.083Z'
+datePublished: '2016-04-25T01:20:43.113Z'
+dateModified: '2016-04-25T01:19:24.438Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-frequently-asked-questions-faq.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-frequently-asked-questions-faq.md
-published: true
 url: frequently-asked-questions-faq/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a7118ea-f3ee-4424-9cdb-11fd53a2b8bd.jpg)
+
 **SPELL PRICE: **
 
 **3 day: $250 (basic) **
@@ -35,7 +37,6 @@ _type: Article
 **13 day: $750 (deluxe)**
 
 _**Price is based on numbers of days that will be spent casting your spell. Ingredients and expenses are included in the price. The spellcasting process, which includes making and ordering ingredients, begins as soon as your payment is received; there may be a wait time of up to 6 weeks before the actual performing of your spell subject to availability of the supplies. **_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22f12a60-62c5-49ef-84ca-5869f633433a.jpg)
 
 # Q: Is the spell guaranteed to work? 
 
@@ -72,5 +73,6 @@ A: No, all contact is through email only. I prefer this for several reasons incl
 # Q: What is your email address for contact? 
 
 A: PLEASE BE SURE YOU'VE READ THE FAQ BEFORE WRITING WITH QUESTIONS. _If you send me questions that are explained on the FAQ here, I will tend to just answer with a link back to this FAQ._ Once again, please read the FAQ before you send me questions. If you've read the FAQ above and did not find your question addressed, you can [contact me by clicking here][0] -- Emails are usually read and responded to within 24 hours. If you don't receive a response after a couple days, try resending; for my spam filter does occasionally hold back legitimate inquiries, even if you might have written me before without problems. NOTICE: Please do not add attachments with your email questions.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0a0b153-c707-4e62-97e8-9c12f93976b3.jpg)
 
 [0]: mailto:taliastarot@gmail.com
