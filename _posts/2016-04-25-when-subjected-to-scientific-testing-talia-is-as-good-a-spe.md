@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are looking for magic spells based on Dungeons and Dragons or Harry Potter, please go elsewhere. Only those interested in the genuine benefits of real world magic will be served by the powers of hoodoo and folk magic.'
-datePublished: '2016-04-25T01:04:21.335Z'
-dateModified: '2016-04-25T01:01:34.313Z'
+datePublished: '2016-04-25T01:20:49.811Z'
+dateModified: '2016-04-25T01:19:51.908Z'
 title: 'When subjected to scientific testing, Talia is as good a spell caster as any other you can find!'
 author: []
 sourcePath: _posts/2016-04-25-when-subjected-to-scientific-testing-talia-is-as-good-a-spe.md
@@ -34,8 +34,7 @@ Talia Felix is the one running this little one-woman show. She was accused of be
 
 Talia, herself, believes that _anyone_ can learn to do spells, and [she writes books about how you can cast your own spells and rituals][0]. Her knowledge of magic developed out of a deep interest in history combining with an interest in homemade this-and-that. Eventually beauty recipes turned to folk remedies, and then to occult rituals. Soon she knew enough to begin writing books on the subject. Her titles include_[Conjurin' Ole Time][1], [The Conjure Cookbook][2], [The Hand Book][3]_ and others.
 
-There are many people who have requested Talia to perform spells on their behalf. Talia has even performed magic spells on celebrities! She has been happy with the results of spells that include money-drawing work, love spells, communication spells, spiritual cleansing and healing, magical protection, magical influence, law keep away, attraction spells, revenge spells and enhancement of good luck. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d18a2063-040f-498c-9161-dfb6fd33e0bc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b64460d-3755-4588-b90e-f436d20cd901.jpg)
+There are many people who have requested Talia to perform spells on their behalf. Talia has even performed magic spells on celebrities! She has been happy with the results of spells that include money-drawing work, love spells, communication spells, spiritual cleansing and healing, magical protection, magical influence, law keep away, attraction spells, revenge spells and enhancement of good luck. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b64460d-3755-4588-b90e-f436d20cd901.jpg)
 
 [0]: http://amzn.to/1Sm0xZf
 [1]: http://amzn.to/1Sm0RHh
