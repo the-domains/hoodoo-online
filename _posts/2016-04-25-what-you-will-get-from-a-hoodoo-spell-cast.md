@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-04-25T01:08:10.609Z'
-dateModified: '2016-04-25T01:03:41.367Z'
-title: 'WHAT YOU WILL GET FROM A HOODOO SPELL CAST: '
+datePublished: '2016-04-25T01:10:47.328Z'
+dateModified: '2016-04-25T01:10:22.493Z'
+title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
 published: true
@@ -22,6 +22,8 @@ url: what-you-will-get-from-a-hoodoo-spell-cast/index.html
 _type: Article
 
 ---
+# Hoodoo Magic Spells
+
 # WHAT YOU WILL GET FROM A HOODOO SPELL CAST: 
 
 \* Reliable spellcasting from a professional 
