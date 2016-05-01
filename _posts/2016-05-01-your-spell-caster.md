@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T09:42:14.731Z'
-dateModified: '2016-05-01T09:41:39.336Z'
+datePublished: '2016-05-01T21:00:36.464Z'
+dateModified: '2016-05-01T10:19:59.555Z'
 title: Your Spell Caster
 author: []
 sourcePath: _posts/2016-05-01-your-spell-caster.md
