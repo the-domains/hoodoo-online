@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "When subjected to scientific testing, Talia is as good a spell caster as any other you can find!\_"
-datePublished: '2016-05-01T08:44:46.228Z'
-dateModified: '2016-05-01T08:44:29.881Z'
+description: ''
+datePublished: '2016-05-01T09:41:31.320Z'
+dateModified: '2016-05-01T08:44:54.188Z'
 title: Your Spell Caster
 author: []
+sourcePath: _posts/2016-05-01-your-spell-caster.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-your-spell-caster.md
-published: true
 url: your-spell-caster/index.html
 _type: Article
 
