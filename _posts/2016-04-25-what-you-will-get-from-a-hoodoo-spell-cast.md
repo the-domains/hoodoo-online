@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-05-01T10:01:05.781Z'
-dateModified: '2016-05-01T10:01:05.497Z'
+datePublished: '2016-05-01T10:11:44.794Z'
+dateModified: '2016-05-01T10:11:05.548Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b829e38c-7b88-40a9-837c-3108bebca9cf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e429dc6-35d3-4576-98c6-cb26a407bd7b.jpg)
 
 # Hoodoo Magic Spells
 
