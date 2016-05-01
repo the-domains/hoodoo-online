@@ -4,8 +4,15 @@
         <description><![CDATA[Hoodoo Online]]></description>
         <link>https://thegrid.ai/hoodoo-online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 21:01:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hoodoo-online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your Spell Caster]]></title>
+            <description><![CDATA[<h1>Your Spell Caster</h1>]]></description>
+            <link>https://thegrid.ai/hoodoo-online/your-spell-caster/index.html</link>
+            <guid isPermaLink="false">3ce54788-0fcc-41b0-aede-174ce9ba6231</guid>
+            <pubDate>Sun, 01 May 2016 21:00:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hoodoo Magic Spells]]></title>
             <description><![CDATA[<article><h1>Hoodoo Magic Spells</h1><p>· Reliable spellcasting from a professional </p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/hoodoo-online/bibliography/index.html</link>
             <guid isPermaLink="false">50070602-4963-40d7-8f72-40dd78390322</guid>
             <pubDate>Sun, 01 May 2016 10:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Spell Caster]]></title>
-            <description><![CDATA[<h1>Your Spell Caster</h1>]]></description>
-            <link>https://thegrid.ai/hoodoo-online/your-spell-caster/index.html</link>
-            <guid isPermaLink="false">3ce54788-0fcc-41b0-aede-174ce9ba6231</guid>
-            <pubDate>Sun, 01 May 2016 09:42:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frequently Asked Questions (FAQ)]]></title>
