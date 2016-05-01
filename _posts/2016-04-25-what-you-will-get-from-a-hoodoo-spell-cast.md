@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-04-25T03:30:50.050Z'
-dateModified: '2016-04-25T03:30:36.998Z'
+datePublished: '2016-05-01T09:44:15.603Z'
+dateModified: '2016-05-01T09:43:54.053Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e429dc6-35d3-4576-98c6-cb26a407bd7b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83f13374-f673-4545-a85e-2d983f4ff4da.jpg)
 
 # Hoodoo Magic Spells
 
@@ -57,6 +56,7 @@ These are the most potent and powerful spells at Hoodoo Online. You will experie
 After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting! 
 
 If you have more questions, please read the FAQ, then, if you are all ready for your hoodoo spell, [email Talia to schedule your casting][0]! _You MUST email Talia to be approved for spellwork, and not every case is accepted._ Be smart about your spells and [read the FAQ before buying][1].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/335dca2d-fe7a-4818-a5c7-0ddd25522c0f.jpg)
 
 [0]: mailto:taliastarot@gmail.com
 [1]: https://thegrid.ai/hoodoo-online/frequently-asked-questions-faq/
