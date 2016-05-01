@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T09:41:31.320Z'
-dateModified: '2016-05-01T08:44:54.188Z'
+datePublished: '2016-05-01T09:42:14.731Z'
+dateModified: '2016-05-01T09:41:39.336Z'
 title: Your Spell Caster
 author: []
 sourcePath: _posts/2016-05-01-your-spell-caster.md
