@@ -4,13 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-01T21:00:36.464Z'
-dateModified: '2016-05-01T10:19:59.555Z'
+description: "My name is Talia Felix. I'm the one running this little one-woman show. I believe that anyone can do spells and even write books about how you can cast your own spells and rituals. "
+datePublished: '2016-05-13T10:22:33.750Z'
+dateModified: '2016-05-13T10:22:15.358Z'
 title: Your Spell Caster
 author: []
 sourcePath: _posts/2016-05-01-your-spell-caster.md
-published: true
 authors: []
 publisher:
   name: null
@@ -26,19 +25,19 @@ _type: Article
 
 # Your Spell Caster
 
-# When subjected to scientific testing, Talia is as good a spell caster as any other you can find! 
+**My name is Talia Felix.** I'm the one running this little one-woman show. I believe that anyone can do spells and even write books about how you can cast your own spells and rituals. 
 
-If you are looking for magic spells based on Dungeons and Dragons or Harry Potter, please go elsewhere. Only those interested in the genuine benefits of real world magic will be served by the powers of hoodoo and folk magic. 
+So why hoodoo? Why not Wicca or something more mainstream? As it fell, in my teens and early twenties I was a little interested in magic as a concept, but most of the available materials were about Wicca, New Age or Ceremonial magic, and none of these appealed to me in the least: Wicca tended to be too restrictive in what was "allowed" to be done, New Age was too focused on self-improvement, and Ceremonial was ridiculously complicated and required too many expensive tools. There is virtually no recent family history of magical practice (the scandal of my great-grandfather and his "Satanic" lodestone aside) so I had to work with what I could learn from books or websites. I didn't fret much about not being able to practice magic, but it happened in about 2006 that I was shopping online for a favorite scented soap of mine, and discovered that one of the retailers selling it specialized in hoodoo supplies. I knew very little about hoodoo, but this made me interested in learning more about it -- and once I began learning it, I realized _it was the magic for me._ It was the first magic that ever made any sense at all! I buried myself into the study of it, learning the techniques and the logic of it, and the traditions on has to abide. Everything was so perfectly sensible! I studied it very devoutly -- obsessively, even -- and read everything I could get my hands on, then eventually, I started knowing a bit about it. And that led other people knowing I knew about it; which led to people asking me to perform spells on their behalf. 
 
-# The Conjure Nerd 
+Honestly, this is NOT a career I'd have exactly chosen for myself. If I could have had any job I wanted, I'd have probably become a screenwriter or an opera singer. But those job prospects weren't yielding anything, and meanwhile I was getting asked by all kinds of people, who were offering me money, if I'd be willing to cast spells for them or do a bit of fortune telling... 
 
-Talia Felix is the one running this little one-woman show. She was accused of being a witch long before she actually ever practiced any sort of witchcraft. Some people have said it was because children have a heightened sensitivity to witches and spiritual forces. Whatever the reason, Talia was called to the profession of a spellcaster in a real way that few people can claim --- not because she wanted to take the work, but because the Universe compelled her to do it. 
+According to tradition, those who are destined to become professional hoodoo practitioners will fail at any other attempted career because it's their inescapable destiny to have to be hoodoo practitioners. I guess that's correct, because here we are. 
 
-Talia, herself, believes that anyone can learn to do spells, and she writes books about how you can cast your own spells and rituals. Her knowledge of magic developed out of a deep interest in history combining with an interest in homemade this-and-that. Eventually beauty recipes turned to folk remedies, and then to occult rituals. Soon she knew enough to begin writing books on the subject. Her titles include _[Conjurin' Ole Time][0], [The Conjure Cookbook][1], [The Hand Book][2]_ and others. There are many people who have requested Talia to perform spells on their behalf. Talia has even performed magic spells on celebrities! She has been happy with the results of spells that include money-drawing work, love spells, communication spells, spiritual cleansing and healing, magical protection, magical influence, law keep away, attraction spells, revenge spells and enhancement of good luck.
+# Using scientific testing, Talia's magic spells are as effective as anyone else's! 
 
-Since this is a solo operation and Talia works together with you to ensure each spell will suit your needs, you [must email Talia to consult about a spellcast.][3]
+Am I being cute when I say this? Yes I am. But here's the thing -- no amount of money is worth dealing with a person who genuinely believes I can turn a person into a toad or make money fall out of the sky. I am not trying to scam anyone, I don't want people to _feel_ scammed because they asked me for something impossible, and so I really go out of my way to chase off those who have "excessive faith" in magic. [My FAQ][0] is there so I don't have to spend a lot of one-on-one time unselling my services to people. If you are looking for magic spells based on _Dungeons and Dragons _or _Harry Potter,_ please go elsewhere. Only those interested in the genuine benefits of real world magic will be served by the powers of hoodoo and folk magic. Many people are happy with the results of hoodoo magic spells, and feel that such magic has helped them to achieve things they otherwise could have never accomplished. This does not mean it will do anything and everything, and do please keep in mind that if these things were 100% reliable I could happily charge several thousand or even millions of dollars for the exact same work I currently do for a few hundred. Magic is unreliable. So make sure at least you have a spellcaster you can trust. 
 
-[0]: http://www.amazon.com/Conjurin-Ole-Time-Hoodoo-Spells/dp/146104569X/ref=as_li_ss_tl?ie=UTF8&dpID=51q7Zix840L&dpSrc=sims&preST=_AC_UL160_SR107%2C160_&refRID=0CJCR9VM2SJR14J8KP32&linkCode=ll1&tag=talstar-20&linkId=4de6ebe0439513541868a55ebf96475a
-[1]: http://www.amazon.com/Conjure-Cookbook-Making-Incense-Powders/dp/1450573177/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462091962&sr=1-1&keywords=conjure+cookbook&linkCode=ll1&tag=talstar-20&linkId=79d2c30ad9dfcd916ceb5620a5729f07
-[2]: http://www.amazon.com/gp/product/1500840807/ref=as_li_ss_tl?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-1&pf_rd_r=1W5XC6BEFF0MG2B28BGT&pf_rd_t=36701&pf_rd_p=2437869742&pf_rd_i=desktop&linkCode=ll1&tag=talstar-20&linkId=07bf5a3929502f59255a508361584a4a
-[3]: mailto:taliastarot@gmail.com
+Since this is a solo operation and Talia works together with you to ensure each spell will suit your needs, you [must email Talia to consult about a spellcast.][1]
+
+[0]: http://hoodoo-online.com/frequently-asked-questions-faq/
+[1]: mailto:taliastarot@gmail.com
