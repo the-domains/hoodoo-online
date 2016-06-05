@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '“This spell really worked! Thanks.” – J.L., USA '
-datePublished: '2016-06-05T04:13:19.905Z'
-dateModified: '2016-06-05T04:12:32.137Z'
+datePublished: '2016-06-05T05:09:06.990Z'
+dateModified: '2016-06-05T04:13:26.062Z'
 title: Testimonials
 author: []
+sourcePath: _posts/2016-06-05-testimonials.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-testimonials.md
 url: testimonials/index.html
 _type: Article
 
