@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-06-07T06:01:15.926Z'
-dateModified: '2016-06-07T06:00:58.364Z'
+datePublished: '2016-06-07T06:12:48.161Z'
+dateModified: '2016-06-07T06:12:29.482Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
@@ -46,7 +46,6 @@ These are the most potent and powerful spells at Hoodoo Online. You will experie
 **9 day: $550 (extra-strength) **
 
 **13 day: $750 (deluxe) **
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f138ec84-bd7a-4f16-bb13-602e3a66aea0.jpg)
 
 After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting! 
 
