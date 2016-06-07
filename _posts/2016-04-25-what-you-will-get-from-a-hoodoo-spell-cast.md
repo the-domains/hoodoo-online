@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-06-07T06:12:48.161Z'
-dateModified: '2016-06-07T06:12:29.482Z'
+datePublished: '2016-06-07T06:43:05.469Z'
+dateModified: '2016-06-07T06:36:08.381Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
@@ -51,9 +51,8 @@ After payment is received, ingredients needed for the casting are ordered, and i
 
 # Arrange Your Outcome - Book Your Spellcast Now
 
-If you have more questions, [please read the FAQ][0], then, if you are all ready for your hoodoo spell, [**email Talia to schedule your casting**][1]! _You MUST email Talia to be approved for spellwork, and not every case is accepted._ Be smart about your spells and [read the FAQ before buying][2].
+[**Email Talia to schedule your casting**][0]! _You MUST email Talia to be approved for spellwork, and not every case is accepted._ Be smart about your spells and [read the FAQ before buying][1].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/335dca2d-fe7a-4818-a5c7-0ddd25522c0f.jpg)
 
-[0]: http://hoodoo-online.com/frequently-asked-questions-faq/
-[1]: mailto:taliastarot@gmail.com
-[2]: https://thegrid.ai/hoodoo-online/frequently-asked-questions-faq/
+[0]: mailto:taliastarot@gmail.com
+[1]: https://thegrid.ai/hoodoo-online/frequently-asked-questions-faq/
