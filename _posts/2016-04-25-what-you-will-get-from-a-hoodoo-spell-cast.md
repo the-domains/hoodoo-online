@@ -5,18 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-05-01T10:11:44.794Z'
-dateModified: '2016-05-01T10:11:05.548Z'
+datePublished: '2016-06-07T06:01:15.926Z'
+dateModified: '2016-06-07T06:00:58.364Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: what-you-will-get-from-a-hoodoo-spell-cast/index.html
 _type: Article
@@ -55,8 +50,11 @@ These are the most potent and powerful spells at Hoodoo Online. You will experie
 
 After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting! 
 
-If you have more questions, please read the FAQ, then, if you are all ready for your hoodoo spell, [email Talia to schedule your casting][0]! _You MUST email Talia to be approved for spellwork, and not every case is accepted._ Be smart about your spells and [read the FAQ before buying][1].
+# Arrange Your Outcome - Book Your Spellcast Now
+
+If you have more questions, [please read the FAQ][0], then, if you are all ready for your hoodoo spell, [**email Talia to schedule your casting**][1]! _You MUST email Talia to be approved for spellwork, and not every case is accepted._ Be smart about your spells and [read the FAQ before buying][2].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/335dca2d-fe7a-4818-a5c7-0ddd25522c0f.jpg)
 
-[0]: mailto:taliastarot@gmail.com
-[1]: https://thegrid.ai/hoodoo-online/frequently-asked-questions-faq/
+[0]: http://hoodoo-online.com/frequently-asked-questions-faq/
+[1]: mailto:taliastarot@gmail.com
+[2]: https://thegrid.ai/hoodoo-online/frequently-asked-questions-faq/
