@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'SPELL PRICE: '
-datePublished: '2016-06-07T06:22:38.477Z'
-dateModified: '2016-06-07T06:22:08.426Z'
+datePublished: '2016-06-08T02:09:22.344Z'
+dateModified: '2016-06-08T02:09:17.999Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-frequently-asked-questions-faq.md
@@ -21,15 +21,15 @@ _type: Article
 
 **SPELL PRICE: **
 
-**3 day: $250 (basic) **
+**3x strength: $250 (basic) **
 
-**5 day: $350 (moderate) **
+**5x strength****: $350 (moderate)**
 
-**7 day: $450 (advanced) **
+**7x strength: $450 (advanced) **
 
-**9 day: $550 (extra-strength) **
+**9x strength: $550 (extra-strength) **
 
-**13 day: $750 (deluxe)**
+**13x strength: $750 (deluxe)**
 
 _**Price is based on numbers of days that will be spent casting your spell. Ingredients and expenses are included in the price. The spellcasting process, which includes making and ordering ingredients, begins as soon as your payment is received; there may be a wait time of up to 6 weeks before the actual performing of your spell subject to availability of the supplies. **_
 
