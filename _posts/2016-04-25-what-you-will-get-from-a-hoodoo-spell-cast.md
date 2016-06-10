@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-06-08T02:11:13.850Z'
-dateModified: '2016-06-08T02:11:03.296Z'
+datePublished: '2016-06-10T23:36:24.283Z'
+dateModified: '2016-06-10T23:36:06.376Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
@@ -30,6 +30,8 @@ _type: Article
 \* Photos of your spell as it is being performed 
 
 \* All the benefits of real hoodoo style folk magic 
+
+\***Plus a FREE COPY of **_The Hoodoo Guide to Spiritual Outcomes: A Handbook for Spellcast Success_
 
 # THE PREMIUM MAGICK SPELL FOR YOUR NEEDS 
 
