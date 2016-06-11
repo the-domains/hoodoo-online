@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'SPELL PRICE: '
-datePublished: '2016-06-08T02:09:22.344Z'
-dateModified: '2016-06-08T02:09:17.999Z'
+datePublished: '2016-06-11T09:40:05.102Z'
+dateModified: '2016-06-11T09:40:00.207Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-frequently-asked-questions-faq.md
@@ -43,7 +43,7 @@ A: The genuine answer is: no one really knows. There's no scientific method for 
 
 # Q: What is your success rate? 
 
-A: Hired spells are difficult to judge. I discourage clients from updating me about success rates, as it puts them into an improper mindset of waiting to see results (see previous question) and also causes them to discuss the spells, which is another no-no in the world of magic. I can honestly say that I hear more good reports than I do bad reports, but that's as far as I'll go. Intent does matter, and spells which are meant to control other people succeed less often than spells for personal change or gain. Additionally, the uncertain nature of "success" complicates the interpretation of the results. This blog post has useful information about expectations, which might prove valuable to anyone who is worried about "success rates." 
+A: Hired spells are difficult to interpret, and I discourage clients from updating me about success rates, as it puts them into an improper mindset of waiting to see results (see previous question) and also causes them to discuss the spells, which is another no-no in the world of magic. I can honestly say that I hear more good reports than I do bad reports, and in a survey of 80 customers, 76 of them were satisfied with their spellcast purchases (which makes for a 95% satisfaction rate.) Intent does matter, and _spells for personal change or gain_ will succeed more often than other kinds of magic.
 
 # Q: What kind of spell should I get for \[fill in the blank\]? 
 
