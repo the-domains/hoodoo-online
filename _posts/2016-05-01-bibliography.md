@@ -21,13 +21,14 @@ description: >-
   ending the interference of harmful spirits — herbal magic using native North
   American plants. Three hundred years worth of American spiritual practices
   were going into Williams’s defense. 
-datePublished: '2016-07-09T01:28:24.232Z'
-dateModified: '2016-07-09T01:28:17.085Z'
+datePublished: '2016-07-22T21:47:03.770Z'
+dateModified: '2016-07-22T21:46:36.524Z'
 title: 'BIBLIOGRAPHY '
 author: []
 sourcePath: _posts/2016-05-01-bibliography.md
+via: {}
 authors: []
-publisher: null
+publisher: {}
 starred: false
 url: bibliography/index.html
 _type: Article
