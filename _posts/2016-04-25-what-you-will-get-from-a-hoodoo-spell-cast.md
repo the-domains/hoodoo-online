@@ -5,19 +5,22 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-07-08T22:27:32.138Z'
-dateModified: '2016-07-08T22:26:50.485Z'
+datePublished: '2016-07-22T21:41:49.244Z'
+dateModified: '2016-07-22T21:41:43.367Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
+via: {}
 authors: []
-publisher: null
+publisher: {}
 starred: false
 url: what-you-will-get-from-a-hoodoo-spell-cast/index.html
 _type: Article
 
 ---
 # Hoodoo Magic Spells
+
+Making the world work with magic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2024f6e3-c680-4e8a-b68a-a1e2c9ad7749.jpg)
 
 # WHAT YOU WILL GET FROM A HOODOO SPELL CAST: 
@@ -30,12 +33,12 @@ _type: Article
 
 \* All the benefits of real hoodoo style folk magic 
 
-\***Plus a FREE COPY of **_The Hoodoo Guide to Spiritual Outcomes: A Handbook for Spellcast Success_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c17a14c-2b66-4624-b912-c0b3c5facf6e.jpg)
+\* **Plus a FREE COPY of **_The Hoodoo Guide to Spiritual Outcomes: A Handbook for Spellcast Success_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c67c1b-aaee-4934-802f-47c47759776f.jpg)
 
 # THE PREMIUM MAGICK SPELL FOR YOUR NEEDS 
 
-These are the most potent and powerful spells at Hoodoo Online. You will experience real magick from these genuine rituals! Hoodoo spells are here to help you with large problems. They have been known to end grief and worries that have plagued people for months or even years -- restoring happiness and fitting you with the good things you have always wanted. Hoodoo spells can also be used to cause harm and revenge upon others. This is very intense witchcraft and is to be used for the most important cases! To draw the utmost power towards your wishes and goals, these spells usually involve mailed magical charms OR multi-day candle and incense magic performed for you. Photographs and daily email updates will be included just for you when you purchase your own hoodoo magic spell. How does the process work? First,_you must email the spellcaster with a short description of what you want your individual spell to achieve._ If the caster agrees to perform the work, a length for the casting will be decided upon and a payment request will be sent. Prices are: 
+These are the most potent and powerful spells at Hoodoo Online. You will experience real magick from these genuine rituals! Hoodoo spells are here to help you with large problems. They have been known to end grief and worries that have plagued people for months or even years -- restoring happiness and fitting you with the good things you have always wanted. Hoodoo spells can also be used to cause harm and revenge upon others. This is very intense witchcraft and is to be used for the most important cases! To draw the utmost power towards your wishes and goals, these spells usually involve mailed magical charms OR multi-day candle and incense magic performed for you. Photographs and daily email updates will be included just for you when you purchase your own hoodoo magic spell. How does the process work? First,_you must email the spellcaster with a short description of what you want your custom spell to achieve._ If the caster agrees to perform the work, final details will be discussed and a payment request will be sent. Prices are: 
 
 **CUSTOM HOODOO SPELL PRICE (EACH LEVEL ADDS MORE POWER) **
 
