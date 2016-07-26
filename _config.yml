@@ -1,7 +1,7 @@
 name: Hoodoo Online
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.51419
+layout_spectrum: 0.75722
+typography_spectrum: 0.32961
 title: Hoodoo Online - Magic Spells and Witchcraft
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#a5a5a4'
     - '#01c600'
     - '#c41719'
-  brandStrength: 0.8627390952315181
+  brandStrength: 1
   lightness: 1
   saturation: 0
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
