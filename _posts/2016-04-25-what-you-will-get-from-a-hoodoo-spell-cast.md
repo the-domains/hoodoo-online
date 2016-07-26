@@ -5,16 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-07-26T23:39:33.707Z'
-dateModified: '2016-07-26T23:39:21.708Z'
-title: 'WHAT YOU WILL GET FROM A HOODOO SPELL CAST:'
+datePublished: '2016-07-26T23:45:42.793Z'
+dateModified: '2016-07-26T23:45:42.011Z'
+title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
 via: {}
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: what-you-will-get-from-a-hoodoo-spell-cast/index.html
 _type: Article
@@ -23,7 +27,7 @@ _type: Article
 # Hoodoo Magic Spell Casts
 ![A candle magic spell from Hoodoo Online](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf46cfa8-93b8-4684-a0bb-b60568632973.jpg)
 
-# WHAT YOU WILL GET FROM A HOODOO SPELL CAST:
+## WHAT YOU WILL GET FROM A HOODOO SPELL CAST:
 
 \* Reliable spellcasting from a professional 
 
