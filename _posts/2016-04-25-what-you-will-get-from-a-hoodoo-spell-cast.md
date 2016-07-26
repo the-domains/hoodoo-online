@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-07-26T21:29:21.204Z'
-dateModified: '2016-07-26T21:29:20.586Z'
+datePublished: '2016-07-26T21:44:47.328Z'
+dateModified: '2016-07-26T21:44:36.649Z'
 title: Hoodoo Magic Spells
 author: []
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
@@ -46,9 +46,9 @@ When you buy a spell from [Talia Felix at Hoodoo Online][0], you are buying from
 
 Included with every purchase of a spell come actual photographs of your spell being cast, sent by email. No need to doubt if the work is being done! 
 
-Finally, to further help you with manifesting you desires and making the magic's power more intense, you will receive a copy of _The Hoodoo Guide to Spiritual Outcomes_, a short book designed to give **you** the mental powers needed for enhancement of your spellwork. 
+Finally, to further help you with manifesting you desires and making the magic's power more intense, you will receive a copy of _The Hoodoo Guide to Spiritual Outcomes_, a short book designed to give **you** the mental powers needed for enhancement of your spellwork. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb5aa56-3ef7-4812-88b7-69f729a34b62.jpg)
 
-How does the process work? First,_you must email the spellcaster with a short description of what you want your custom spell to achieve._ If the caster agrees to perform the work, final details will be discussed and a payment request will be sent. Prices are: 
+How does the process work? First,_[you must email the spellcaster with a short description of what you want your custom spell to achieve][1]._ If the caster agrees to perform the work, final details will be discussed and a payment request will be sent. Prices are: 
 
 **CUSTOM HOODOO SPELL PRICE (EACH LEVEL ADDS MORE POWER) **
 
@@ -62,7 +62,7 @@ How does the process work? First,_you must email the spellcaster with a short de
 
 **13x strength: $750 (deluxe) **
 
-After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3e48a9e-2bf6-4ad4-9646-947e08f82f77.jpg)
+After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9ccba23-65d3-4711-a039-e44c4c8c1c17.jpg)
 
 # Arrange Your Outcome - Book Your Spellcast Now
 
