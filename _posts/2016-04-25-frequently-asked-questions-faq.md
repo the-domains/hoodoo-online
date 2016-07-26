@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'SPELL PRICE: '
-datePublished: '2016-06-11T09:40:05.102Z'
-dateModified: '2016-06-11T09:40:00.207Z'
+datePublished: '2016-07-26T23:39:15.402Z'
+dateModified: '2016-07-26T23:38:24.503Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-frequently-asked-questions-faq.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: frequently-asked-questions-faq/index.html
 _type: Article
