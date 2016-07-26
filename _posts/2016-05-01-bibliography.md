@@ -5,24 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  In the 1980s, Jim Williams — a wealthy white man, on trial for murder in
-  Georgia — hired a black rootworker, or hoodoo practitioner, who specialized in
-  spirit contact and the use of grave dirt and other curios of the dead to work
-  magic spells to help his case. Williams himself claimed not to believe in the
-  value of the worker’s ritual items, but had faith in the power of her mental
-  energy to influence events — a philosophy that is apparently felt by many
-  modern magical practitioners and users, apparently derived from ideas
-  originating in the 19th century New Thought Movement. Meanwhile, the
-  rootworker’s use of articles of the dead is a practice that has been employed
-  since at least the 17th century by European witches and practitioners of
-  “Natural Magic,” and it is documented in African traditions as well. The
-  rootworker was mentioned to use John the Conqueror powder to dress the
-  prosecutor, and to harvest fresh devil’s shoestring root that she employed for
-  ending the interference of harmful spirits — herbal magic using native North
-  American plants. Three hundred years worth of American spiritual practices
-  were going into Williams’s defense. 
-datePublished: '2016-07-26T21:45:54.150Z'
-dateModified: '2016-07-26T21:45:32.178Z'
+  During the 17th century in America, Colonial witchcraft cases were mainly
+  considered to be situations related to demonic possession or pacts with the
+  devil. Witches were said to shapeshift or to send spirits or demons to torment
+  their selected victims. And yet, the medicine and folk practices of the time,
+  which were considered to be acceptable work, often used elements like herbs,
+  prayers, symbolism; and even the medicine of the educated still relied on
+  planetary correspondences and ideas about balancing bodily “humours.” This was
+  sometimes known as “Natural Magic” (as opposed to unholy or unnatural magic
+  that it was believed devil-worshippers could use) and was considered
+  equivalent to what would eventually become known as “science.” 
+datePublished: '2016-07-26T23:27:31.056Z'
+dateModified: '2016-07-26T23:27:01.019Z'
 title: 'BIBLIOGRAPHY '
 author: []
 sourcePath: _posts/2016-05-01-bibliography.md
@@ -36,6 +30,8 @@ _type: Article
 ---
 # A Short History of Hoodoo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4fd0351-bd40-44bc-9e09-ad4d9ec49fbc.jpg)
+
+# A Short History of Hoodoo - by Talia Felix
 
 In the 1980s, Jim Williams --- a wealthy white man, on trial for murder in Georgia --- hired a black rootworker, or hoodoo practitioner, who specialized in spirit contact and the use of grave dirt and other curios of the dead to work magic spells to help his case. Williams himself claimed not to believe in the value of the worker's ritual items, but had faith in the power of her mental energy to influence events --- a philosophy that is apparently felt by many modern magical practitioners and users, apparently derived from ideas originating in the 19th century New Thought Movement. Meanwhile, the rootworker's use of articles of the dead is a practice that has been employed since at least the 17th century by European witches and practitioners of "Natural Magic," and it is documented in African traditions as well. The rootworker was mentioned to use John the Conqueror powder to dress the prosecutor, and to harvest fresh devil's shoestring root that she employed for ending the interference of harmful spirits --- herbal magic using native North American plants. Three hundred years worth of American spiritual practices were going into Williams's defense. 
 
