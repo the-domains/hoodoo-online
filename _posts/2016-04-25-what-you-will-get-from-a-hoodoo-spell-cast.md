@@ -5,20 +5,25 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-07-26T23:14:03.301Z'
-dateModified: '2016-07-26T23:13:19.814Z'
-title: 'WHAT YOU WILL GET FROM A HOODOO SPELL CAST: '
-author: []
+datePublished: '2016-07-26T23:25:49.809Z'
+dateModified: '2016-07-26T23:25:47.853Z'
+title: 'WHAT YOU WILL GET FROM A HOODOO SPELL CAST:'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
 via: {}
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  url: ''
 starred: false
 url: what-you-will-get-from-a-hoodoo-spell-cast/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf46cfa8-93b8-4684-a0bb-b60568632973.jpg)
+# Hoodoo Magic Spell Casts
+![A candle magic spell from Hoodoo Online](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf46cfa8-93b8-4684-a0bb-b60568632973.jpg)
 
 # WHAT YOU WILL GET FROM A HOODOO SPELL CAST:
 
@@ -33,7 +38,7 @@ _type: Article
 \* **Plus a FREE COPY of **_The Hoodoo Guide to Spiritual Outcomes: A Handbook for Spellcast Success_
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c67c1b-aaee-4934-802f-47c47759776f.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f393751100befb95492abdf2b0b28a9/croprotate.jpg?cropheight=1995&cropwidth=3264&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F89c67c1b-aaee-4934-802f-47c47759776f.jpg&x=0&y=0)
 
 # THE PREMIUM MAGICK SPELL FOR YOUR NEEDS 
 
@@ -61,9 +66,9 @@ How does the process work? First,_[you must email the spellcaster with a short d
 
 After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9ccba23-65d3-4711-a039-e44c4c8c1c17.jpg)
 
-# Arrange Your Outcome - Book Your Spellcast Now
+# Book Your Spellcast Now
 
-[**Email Talia to schedule your casting**][1]! _You MUST email Talia to be approved for spellwork, and not every case is accepted._
+**[Email Talia to schedule your casting][1]****[!][1]**_You MUST email Talia to be approved for spellwork, and not every case is accepted._
 
 Be smart about your spells and [read the FAQ before buying][2].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/335dca2d-fe7a-4818-a5c7-0ddd25522c0f.jpg)
