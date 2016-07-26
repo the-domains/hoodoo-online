@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-07-26T23:30:19.644Z'
-dateModified: '2016-07-26T23:30:10.605Z'
+datePublished: '2016-07-26T23:38:48.736Z'
+dateModified: '2016-07-26T23:38:47.964Z'
 title: 'WHAT YOU WILL GET FROM A HOODOO SPELL CAST:'
 author:
   - name: ''
@@ -15,9 +15,9 @@ sourcePath: _posts/2016-04-25-what-you-will-get-from-a-hoodoo-spell-cast.md
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: what-you-will-get-from-a-hoodoo-spell-cast/index.html
