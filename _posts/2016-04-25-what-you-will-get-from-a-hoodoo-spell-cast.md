@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-07-27T06:37:42.765Z'
-dateModified: '2016-07-27T06:37:42.269Z'
+datePublished: '2016-07-27T08:09:14.301Z'
+dateModified: '2016-07-27T08:09:07.975Z'
 title: ''
 author:
   - name: ''
@@ -40,7 +40,7 @@ _type: Article
 \* **Plus a FREE COPY of **_The Hoodoo Guide to Spiritual Outcomes: A Handbook for Spellcast Success_
 
 __
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f393751100befb95492abdf2b0b28a9/croprotate.jpg?cropheight=1995&cropwidth=3264&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F89c67c1b-aaee-4934-802f-47c47759776f.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eedcada53898237104f47b8417fcdf00f7899a27.jpg)
 
 # THE PREMIUM MAGICK SPELL FOR YOUR NEEDS 
 
