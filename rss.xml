@@ -4,7 +4,7 @@
         <description><![CDATA[Hoodoo Online - Magic Spells and Witchcraft]]></description>
         <link>http://hoodoo-online.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 20:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 22:12:24 GMT</lastBuildDate>
         <atom:link href="http://hoodoo-online.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hoodoo Spells]]></title>
@@ -12,6 +12,13 @@
             <link>http://hoodoo-online.com/what-you-will-get-from-a-hoodoo-spell-cast/index.html</link>
             <guid isPermaLink="false">36e848ec-de8f-4ae9-92dd-c8b74cb53fc0</guid>
             <pubDate>Wed, 27 Jul 2016 08:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BIBLIOGRAPHY ]]></title>
+            <description><![CDATA[<article><h1>BIBLIOGRAPHY </h1><p>During the 17th century in America, Colonial witchcraft cases were mainly considered to be situations related to demonic possession or pacts with the devil. Witches were said to shapeshift or to send spirits or demons to torment their selected victims. And yet, the medicine and folk practices of the time, which were considered to be acceptable work, often used elements like herbs, prayers, symbolism; and even the medicine of the educated still relied on planetary correspondences and ideas about balancing bodily “humours.” This was sometimes known as “Natural Magic” (as opposed to unholy or unnatural magic that it was believed devil-worshippers could use) and was considered equivalent to what would eventually become known as “science.” </p></article>]]></description>
+            <link>http://hoodoo-online.com/bibliography/index.html</link>
+            <guid isPermaLink="false">50070602-4963-40d7-8f72-40dd78390322</guid>
+            <pubDate>Mon, 08 Aug 2016 22:12:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Your Spell Caster]]></title>
@@ -26,13 +33,6 @@
             <link>http://hoodoo-online.com/frequently-asked-questions-faq/index.html</link>
             <guid isPermaLink="false">072ff754-fe79-48b9-9439-05ee2ffa104f</guid>
             <pubDate>Tue, 26 Jul 2016 23:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIBLIOGRAPHY ]]></title>
-            <description><![CDATA[<article><h1>BIBLIOGRAPHY </h1><p>During the 17th century in America, Colonial witchcraft cases were mainly considered to be situations related to demonic possession or pacts with the devil. Witches were said to shapeshift or to send spirits or demons to torment their selected victims. And yet, the medicine and folk practices of the time, which were considered to be acceptable work, often used elements like herbs, prayers, symbolism; and even the medicine of the educated still relied on planetary correspondences and ideas about balancing bodily “humours.” This was sometimes known as “Natural Magic” (as opposed to unholy or unnatural magic that it was believed devil-worshippers could use) and was considered equivalent to what would eventually become known as “science.” </p></article>]]></description>
-            <link>http://hoodoo-online.com/bibliography/index.html</link>
-            <guid isPermaLink="false">50070602-4963-40d7-8f72-40dd78390322</guid>
-            <pubDate>Tue, 26 Jul 2016 23:27:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
