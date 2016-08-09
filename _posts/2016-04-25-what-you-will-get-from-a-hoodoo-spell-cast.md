@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-08-09T01:45:25.648Z'
-dateModified: '2016-08-09T01:45:12.658Z'
+datePublished: '2016-08-09T02:12:47.363Z'
+dateModified: '2016-08-09T02:12:43.904Z'
 title: ''
 author:
   - name: ''
@@ -44,17 +44,8 @@ __
 
 How does the process work? First, _[you must email the spellcaster with a short description of what you want your custom spell to achieve][0]._ If the caster agrees to perform the work, final details will be discussed and a payment request will be sent.
 
-# CUSTOM HOODOO SPELL PRICE (EACH LEVEL ADDS MORE POWER)
-
-* 3x strength: $250 (basic)
-
-* 5x strength: $350 (moderate) 
-
-* 7x strength: $450 (advanced) 
-
-* 9x strength: $550 (extra-strength) 
-
-* 13x strength: $750 (deluxe) ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb5aa56-3ef7-4812-88b7-69f729a34b62.jpg)
+# CUSTOM HOODOO SPELL PRICE ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4979c3fa-e17d-4168-92ae-2f663c57e15b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb5aa56-3ef7-4812-88b7-69f729a34b62.jpg)
 
 After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting!
 
