@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-08-09T09:36:50.687Z'
-dateModified: '2016-08-09T09:36:36.091Z'
+datePublished: '2016-08-09T09:49:13.195Z'
+dateModified: '2016-08-09T09:49:07.470Z'
 title: ''
 author:
   - name: ''
@@ -46,7 +46,6 @@ How does the process work? First, _you must email the spellcaster with a short d
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4979c3fa-e17d-4168-92ae-2f663c57e15b.jpg)
 
 After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb5aa56-3ef7-4812-88b7-69f729a34b62.jpg)
 
 # THE PREMIUM MAGICK SPELL FOR YOUR NEEDS
 
