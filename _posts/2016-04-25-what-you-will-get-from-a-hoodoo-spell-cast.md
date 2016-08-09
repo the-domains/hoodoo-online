@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-08-09T01:37:02.068Z'
-dateModified: '2016-08-09T01:36:39.461Z'
+datePublished: '2016-08-09T01:45:25.648Z'
+dateModified: '2016-08-09T01:45:12.658Z'
 title: ''
 author:
   - name: ''
@@ -42,9 +42,9 @@ _type: Article
 __
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eedcada53898237104f47b8417fcdf00f7899a27.jpg)
 
-How does the process work? First, _[you must email the spellcaster with a short description of what you want your custom spell to achieve][0]._ If the caster agrees to perform the work, final details will be discussed and a payment request will be sent. Prices are:
+How does the process work? First, _[you must email the spellcaster with a short description of what you want your custom spell to achieve][0]._ If the caster agrees to perform the work, final details will be discussed and a payment request will be sent.
 
-# CUSTOM HOODOO SPELL PRICE (EACH LEVEL ADDS MORE POWER) 
+# CUSTOM HOODOO SPELL PRICE (EACH LEVEL ADDS MORE POWER)
 
 * 3x strength: $250 (basic)
 
