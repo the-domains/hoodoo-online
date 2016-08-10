@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '· Reliable spellcasting from a professional '
-datePublished: '2016-08-09T09:49:13.195Z'
-dateModified: '2016-08-09T09:49:07.470Z'
+datePublished: '2016-08-10T05:00:34.974Z'
+dateModified: '2016-08-10T05:00:05.518Z'
 title: ''
 author:
   - name: ''
@@ -27,7 +27,7 @@ _type: Article
 # Hoodoo Magic Spell Casts
 ![A candle magic spell from Hoodoo Online](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf46cfa8-93b8-4684-a0bb-b60568632973.jpg)
 
-## WHAT YOU WILL GET FROM A HOODOO SPELL CAST:
+## WHAT YOU WILL GET FROM A HOODOO ONLINE SPELL CAST:
 
 \* Reliable spellcasting from a professional 
 
@@ -42,12 +42,15 @@ _type: Article
 __
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eedcada53898237104f47b8417fcdf00f7899a27.jpg)
 
-How does the process work? First, _you must email the spellcaster with a short description of what you want your custom spell to achieve._ This is absolutely required - no doctor will agree to do surgery without first examining the patient. If Talia agrees to perform the work for you, final details will be discussed and a payment request will be sent.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4979c3fa-e17d-4168-92ae-2f663c57e15b.jpg)
+How does the process work? First, _you must [email the spellcaster][0] with a short description of what you want your custom spell to achieve._ This is absolutely required - no doctor will agree to do surgery without first examining the patient. If Talia agrees to perform the work for you, final details will be discussed and a payment request will be sent. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4979c3fa-e17d-4168-92ae-2f663c57e15b.jpg)
 
-After payment is received, ingredients needed for the casting are ordered, and in a few days (or sometimes as long as 6 weeks if very rare/specialized items are required) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting!
+After payment is received, ingredients needed for the casting are ordered. Only the best, tested, quality ingredients are used for your spells! When the products arrive (which might take up to 4 weeks) you'll be notified that your spell is ready to perform. Photo updates are sent on the first and last day of the spellcast, as well as in the event of unusual or significant happenings. Email updates are sent each day of the casting. The magic begins as soon as the spell is started, and most practitioners agree that the results of the magic will take additional time to become apparent. You might witness the effect of the hoodoo style spell within days of your casting!
 
 # THE PREMIUM MAGICK SPELL FOR YOUR NEEDS
+
+Why trouble yourself casting your own spell, risking the purchase of incorrect or poor-quality ingredients? What if you mess up the casting? What if someone in your house interrupts you or tampers with your magical tools? 
+
+By buying a spell from Talia Felix at Hoodoo Online, there's no need to worry. Everything is taken care of for you! No need to expose yourself to carcinogenic fumes or risk deadly house fires when you have a professional spell worker doing it all for you!
 
 These are the most potent and powerful spells at Hoodoo Online. You will experience real magick from these genuine rituals! Hoodoo spells are here to help you with your biggest problems. They have been known to end grief and worries that have plagued people for months or even years -- restoring happiness and fitting you with the good things you have always wanted. Hoodoo spells can also be used to cause harm and revenge upon others. This is very intense witchcraft and is to be used for the most important cases! To draw the utmost power towards your wishes and goals, these spells usually involve mailed magical charms OR multi-day candle and incense magic performed for you.
 
