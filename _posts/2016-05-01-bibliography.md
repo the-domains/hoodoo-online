@@ -15,8 +15,8 @@ description: >-
   sometimes known as “Natural Magic” (as opposed to unholy or unnatural magic
   that it was believed devil-worshippers could use) and was considered
   equivalent to what would eventually become known as “science.” 
-datePublished: '2016-08-21T08:06:08.861Z'
-dateModified: '2016-08-21T08:05:17.464Z'
+datePublished: '2016-08-21T08:53:43.659Z'
+dateModified: '2016-08-21T08:53:22.133Z'
 title: 'BIBLIOGRAPHY '
 author: []
 sourcePath: _posts/2016-05-01-bibliography.md
